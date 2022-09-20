@@ -1,0 +1,11 @@
+
+.distortion{
+    width: 500px;
+    height: 900px;
+}
+@media (max-width: 700px){
+    .distortion{
+        width: 400px;
+        height: 800px;
+    }
+}
